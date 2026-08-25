@@ -21,7 +21,7 @@ export function Logo({ compact = false }: { compact?: boolean }) {
             KH Global Trading
           </span>
           <span className="text-[10px] font-medium uppercase tracking-[0.16em] text-muted-foreground">
-            FZE LLC
+            FZC LLC
           </span>
         </span>
       )}
