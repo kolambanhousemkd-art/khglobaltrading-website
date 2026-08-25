@@ -7,7 +7,7 @@ import { Download, FileText } from "lucide-react";
 const FILES = [
   {
     title: "Company Profile",
-    desc: "An overview of KH Global Trading FZE LLC and our business activities.",
+    desc: "An overview of KH Global Trading FZC LLC and our business activities.",
     size: "1.8 MB",
   },
   {
