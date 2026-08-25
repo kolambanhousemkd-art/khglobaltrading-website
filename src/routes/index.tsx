@@ -32,17 +32,17 @@ export const Route = createFileRoute("/")({
     meta: [
       {
         title:
-          "KH Global Trading FZE LLC — Fire Safety & Industrial Supply UAE",
+          "KH Global Trading FZC LLC — Fire Safety & Industrial Supply UAE",
       },
       {
         name: "description",
         content:
-          "KH Global Trading FZE LLC supplies high-quality fire fighting equipment, safety products, industrial materials, and general trading solutions across the UAE.",
+          "KH Global Trading FZC LLC supplies high-quality fire fighting equipment, safety products, industrial materials, and general trading solutions across the UAE.",
       },
       {
         property: "og:title",
         content:
-          "KH Global Trading FZE LLC — Fire Safety & Industrial Supply UAE",
+          "KH Global Trading FZC LLC — Fire Safety & Industrial Supply UAE",
       },
       {
         property: "og:description",
@@ -98,7 +98,7 @@ function Hero() {
         >
           <span className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/5 px-3 py-1.5 text-xs font-medium uppercase tracking-[0.18em] text-white/80 backdrop-blur">
             <span className="size-1.5 rounded-full bg-primary animate-pulse" />
-            KH Global Trading FZE LLC · United Arab Emirates
+            KH Global Trading FZC LLC · United Arab Emirates
           </span>
           <h1 className="mt-6 font-display text-5xl font-semibold leading-[1.02] tracking-tight md:text-6xl lg:text-7xl">
             Your Trusted Partner for{" "}
@@ -106,7 +106,7 @@ function Hero() {
             <br className="hidden sm:block" /> &amp; Industrial Supply Solutions
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-white/80 md:text-xl">
-            KH GLOBAL TRADING FZE LLC supplies high-quality fire fighting
+            KH GLOBAL TRADING FZC LLC supplies high-quality fire fighting
             equipment, safety products, industrial materials, and general
             trading solutions across the UAE with reliability, competitive
             pricing, and exceptional customer service.
