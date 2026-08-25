@@ -18,13 +18,13 @@ import { COMPANY, STATS } from "@/lib/site-data";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About Us — KH Global Trading FZE LLC" },
+      { title: "About Us — KH Global Trading FZC LLC" },
       {
         name: "description",
         content:
-          "KH Global Trading FZE LLC is a UAE-based trading company supplying fire fighting equipment, safety solutions and general trading products with reliability and professionalism.",
+          "KH Global Trading FZC LLC is a UAE-based trading company supplying fire fighting equipment, safety solutions and general trading products with reliability and professionalism.",
       },
-      { property: "og:title", content: "About KH Global Trading FZE LLC" },
+      { property: "og:title", content: "About KH Global Trading FZC LLC" },
       {
         property: "og:description",
         content:
