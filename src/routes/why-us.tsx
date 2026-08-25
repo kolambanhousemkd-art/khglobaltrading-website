@@ -29,7 +29,7 @@ const ICONS = [
 export const Route = createFileRoute("/why-us")({
   head: () => ({
     meta: [
-      { title: "Why Choose Us — KH Global Trading FZE LLC" },
+      { title: "Why Choose Us — KH Global Trading FZC LLC" },
       {
         name: "description",
         content:
