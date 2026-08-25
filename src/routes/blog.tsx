@@ -40,7 +40,7 @@ export const Route = createFileRoute("/blog")({
       {
         name: "description",
         content:
-          "Practical guides on fire safety equipment, PPE and industrial supply from KH Global Trading FZE LLC.",
+          "Practical guides on fire safety equipment, PPE and industrial supply from KH Global Trading FZC LLC.",
       },
       { property: "og:title", content: "Insights — KH Global Trading" },
       {
