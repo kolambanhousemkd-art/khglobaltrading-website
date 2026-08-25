@@ -28,9 +28,9 @@ export const Route = createFileRoute("/products")({
       {
         name: "description",
         content:
-          "Fire fighting equipment, PPE, industrial & building materials, and general trading products — supplied across the UAE by KH Global Trading FZE LLC.",
+          "Fire fighting equipment, PPE, industrial & building materials, and general trading products — supplied across the UAE by KH Global Trading FZC LLC.",
       },
-      { property: "og:title", content: "Products — KH Global Trading FZE LLC" },
+      { property: "og:title", content: "Products — KH Global Trading FZC LLC" },
       {
         property: "og:description",
         content:
