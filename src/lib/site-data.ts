@@ -1,6 +1,6 @@
 export const COMPANY = {
-  name: "KH Global Trading FZE LLC",
-  legalName: "KH GLOBAL TRADING FZE LLC",
+  name: "KH Global Trading FZC LLC",
+  legalName: "KH GLOBAL TRADING FZC LLC",
   short: "KH Global Trading",
   tagline: "Your Trusted Partner for Fire Safety & Industrial Supply Solutions",
   phone: "+971 50 247 5226",
@@ -166,7 +166,7 @@ export const INDUSTRIES = [
 
 export const FAQS = [
   {
-    q: "What does KH Global Trading FZE LLC supply?",
+    q: "What does KH Global Trading FZC LLC supply?",
     a: "Fire fighting equipment and safety solutions are our core business, alongside personal protective equipment (PPE), industrial and building materials, and general trading products for businesses across the UAE.",
   },
   {
