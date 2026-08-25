@@ -81,7 +81,7 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
 
 const SITE_TITLE = `${COMPANY.name} — Fire Safety & Industrial Supply UAE`;
 const SITE_DESC =
-  "KH Global Trading FZE LLC supplies high-quality fire fighting equipment, safety products, industrial materials, and general trading solutions across the UAE.";
+  "KH Global Trading FZC LLC supplies high-quality fire fighting equipment, safety products, industrial materials, and general trading solutions across the UAE.";
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
   {
