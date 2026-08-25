@@ -22,11 +22,11 @@ const schema = z.object({
 export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
-      { title: "Contact — KH Global Trading FZE LLC" },
+      { title: "Contact — KH Global Trading FZC LLC" },
       {
         name: "description",
         content:
-          "Contact KH Global Trading FZE LLC — request a quote or ask about fire safety, PPE and industrial supply across the UAE.",
+          "Contact KH Global Trading FZC LLC — request a quote or ask about fire safety, PPE and industrial supply across the UAE.",
       },
       { property: "og:title", content: "Contact — KH Global Trading" },
       {
